@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.cuerpo-registro {
+  background-color: #00202e;
+  display: flex;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.contenido-subtitulo .titulo-cliente h1 {
+  color: #bc5090;
+  font-size: 40px;
+  font-family: 'Righteous';
+}
+
+.name-logo h1 {
+  color: #ffa600;
+  text-align: start;
+  margin-top: -40px;
+}
+
+.icono-salir a{
+  margin-left: 1110px;
+}
+
+.cabecera-registro h2 {
+  color: #ffd380;
+  text-align: left;
+  font-weight: bold;
+}
+
+.cabecera-editar h2 {
+  color: #ffd380;
+  margin-left: 50px;
+  font-weight: bold;
+}
+
+.botones-formnuevo {
+  display: flex;
+  gap: 30px;
+  margin-left: 50px;
+}
+
+.boton-nuevo{
+  margin-left: 1050px;
+}
+
+.boton-nuevo Button {
+  transition: all 0.50s;
+}
+
+.boton-nuevo Button:hover {
+  transform: scale(1.5);
+}
+
+.botones-formnuevo Button {
+  transition: all 0.50s;
+}
+
+.botones-formnuevo Button:hover {
+  transform: scale(1.5);
+}
+
+.btn-acciones Button {
+  transition: all 0.50s;
+}
+
+.btn-acciones Button:hover {
+  transform: scale(1.5);
+}
+
+.botones-formconfig {
+  display: flex;
+  gap: 30px;
+  margin-left: 210px;
+}
+
+
+.botones-formconfig Button {
+  transition: all 0.50s;
+}
+
+.botones-formconfig Button:hover {
+  transform: scale(1.5);
+}
+
+.cabecera-config h2 {
+  color: #003f5c;
+  margin-left: 50px;
+  font-weight: bold;
+}
+
+.modal-config {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lado-der {
+  margin-left: 340px;
+  margin-top: -236px;
+}

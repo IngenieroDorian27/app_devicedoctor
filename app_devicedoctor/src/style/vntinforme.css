@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Work+Sans:wght@100;300;400;600;800&display=swap');
+
+* {
+    
+    box-sizing: border-box;
+    font-family: 'Work Sans';
+}
+
+.container-vtInfrorme{
+    background-color: #fbf2c4;
+    display: flex;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.header-vtInforme h1{
+    text-align: left;
+    margin-top: 40px;
+    color: #2c4875;
+}
+
+.header-sub h2{
+    font-size: 30px;
+    color: #8a508f;
+    font-weight: bold;
+}
+
+
+.header-vtInforme .icon-salir{
+    text-align: right;
+    margin-top: -45px;
+}
+
+.icono-nombre{
+    margin-left: 5px;
+    margin-top: -100px;
+}
+
+.icono-tel{
+    margin-left: 900px;
+    margin-top: -60px;
+}
+
+.datos-iz{
+    margin-right: 400px;
+}
+
+.datos-der{
+    margin-left: 300px;
+    margin-top: -300px;
+}
+
+.comentario{
+    margin-left: 61px;
+}
+
+.logo-cabecera img{
+    border: 10px solid #8a508f;
+    border-radius: 30%;
+    width: 12%;
+}
+
+.logo-cabecera{
+    margin-top: -50px;
+}
